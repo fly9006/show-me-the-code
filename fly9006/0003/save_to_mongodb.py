@@ -7,7 +7,7 @@ import traceback
 
 def save_to_mongodb(code_list):
     """
-
+    将 0001 题生成的 200 个激活码（或者优惠券）保存到 mongo 非关系型数据库中。
     :return:
     """
 
